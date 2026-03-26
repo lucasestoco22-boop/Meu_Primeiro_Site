@@ -1,4 +1,28 @@
-body {
-    font-family: Arial;
-    background-color: #f0f0f0;
+h1{
+    color:#033B3D ;
+    background-color: #bfce91;
+}
+  
+
+h2{
+    color: #033B3D;
+    background-color: #bfce91;
+}
+h3{
+    color: #033B3D;
+    background-color:#bfce91;
+}
+p{
+    color: #0D4A3A;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+ol{
+    color: #0D4A3A;
+}
+ul{
+    color: #0D4A3A;
+}
+a{
+    color: #033B3D;
 }
